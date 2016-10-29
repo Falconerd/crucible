@@ -1,0 +1,26 @@
+{
+  "name": "crucible",
+  "version": "0.1.0",
+  "description": "a 2D game editor which outputs to JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Falconerd/crucible.git"
+  },
+  "keywords": [
+    "2d",
+    "game",
+    "editor",
+    "JSON",
+    "gamedev"
+  ],
+  "author": "Dylan Falconer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Falconerd/crucible/issues"
+  },
+  "homepage": "https://github.com/Falconerd/crucible#readme"
+}
