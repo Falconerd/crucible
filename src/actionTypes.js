@@ -1,0 +1,2 @@
+export const RENDERER_SCROLL = 'RENDERER_SCROLL';
+export const ADD_ENTITY = 'ADD_ENTITY';
